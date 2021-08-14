@@ -12,6 +12,7 @@ module.exports = {
   favicon: 'img/favicon.ico',
   organizationName: 'TomokoMiyake', // Usually your GitHub org/user name.
   projectName: 'tomosuke-blog', // Usually your repo name.
+  trailingSlash: false,
   themeConfig: {
     navbar: {
       title: 'Tomosuke Blog',
