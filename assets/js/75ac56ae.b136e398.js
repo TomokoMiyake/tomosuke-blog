@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[713],{6165:function(e){e.exports=JSON.parse('{"allTagsPath":"/tomosuke-blog/tags","slug":"hello","name":"hello","count":1,"permalink":"/tomosuke-blog/tags/hello"}')}}]);

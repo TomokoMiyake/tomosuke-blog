@@ -2,14 +2,14 @@
 <rss version="2.0">
     <channel>
         <title>Tomosuke Blog Blog</title>
-        <link>https://tomokomiyake.github.io/</link>
+        <link>https://tomokomiyake.github.io/tomosuke-blog/</link>
         <description>Tomosuke Blog Blog</description>
         <lastBuildDate>Sat, 14 Aug 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[Welcome]]></title>
-            <link>https://tomokomiyake.github.io/welcome</link>
+            <link>https://tomokomiyake.github.io/tomosuke-blog/welcome</link>
             <guid>welcome</guid>
             <pubDate>Sat, 14 Aug 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Hello!]]></description>
