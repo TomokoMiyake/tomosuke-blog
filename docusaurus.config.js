@@ -6,7 +6,7 @@ module.exports = {
   title: 'Tomosuke Blog',
   tagline: '',
   url: 'https://tomokomiyake.github.io',
-  baseUrl: '/',
+  baseUrl: '/tomosuke-blog/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
